@@ -29,3 +29,9 @@ form fieldset input {
         width: 80%;
     }
 }
+
+@media only screen and (max-width: 400px) {
+    form {
+        width: 80%;
+    }
+}
